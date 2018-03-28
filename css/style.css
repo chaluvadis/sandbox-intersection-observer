@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    padding:0;
+    margin: 0;
+    background-color: cadetblue;
+}
+
+.box {
+    height: 30vh;
+    width: 75vw;
+    border: solid 1px white;
+    padding: 10px;
+    margin: 40px auto;
+    background-color: saddlebrown;
+}
+
+.gap {
+    height: 40vh;
+}
+
